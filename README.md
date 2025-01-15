@@ -1,6 +1,6 @@
 # **Frooti Clone**
 
-This project is a clone of the [Zomato website](https://www.zomato.com/), built using **HTML** and **CSS**. The purpose of this project is to practice and enhance web development skills by creating a visually accurate static webpage resembling the original.
+This project is a clone of the [Frooti  website]([https://www.fro.com/](https://www.parleagro.com/brand/5)), built using **HTML** and **CSS**. The purpose of this project is to practice and enhance web development skills by creating a visually accurate static webpage resembling the original.
 
 ---
 
