@@ -37,6 +37,18 @@ nav ul li a {
     text-decoration: none;
     font-size: larger;    
 }
+
+.nav-elements ul li a {
+    text-decoration: none;
+    color: #000; /* Default color for the links */
+    font-size: 1.2rem; /* Adjust size as needed */
+    transition: color 0.3s ease; /* Smooth transition for the color */
+}
+
+.nav-elements ul li a:hover {
+    color: #f09031; /* Change color to #f09031 on hover */
+}
+
 .nav-logo img{
     width: 120px;
     height:26px;
