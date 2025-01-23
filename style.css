@@ -40,7 +40,7 @@ nav ul li a {
 
 .nav-elements ul li a {
     text-decoration: none;
-    color: #000; /* Default color for the links */
+    color: #ffffff; /* Default color for the links */
     font-size: 1.2rem; /* Adjust size as needed */
     transition: color 0.3s ease; /* Smooth transition for the color */
 }
